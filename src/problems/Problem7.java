@@ -25,7 +25,7 @@ public class Problem7 {
 	/**
 	 * @param x
 	 * @return reversal
-	 * @version official-solution-2.0
+	 * @version 2.0*
 	 */
 	public int reverse(int x) {
         int reversal = 0;
@@ -42,11 +42,11 @@ public class Problem7 {
     }
 	
 	
-	/**
-	 * @param x
-	 * @return reversal
-	 * @version 1.0
-	 */
+//	/**
+//	 * @param x
+//	 * @return reversal
+//	 * @version 1.0
+//	 */
 //	public int reverse(int x) {
 //		/*
 //		 *  2^31 - 1 = 2147483647
